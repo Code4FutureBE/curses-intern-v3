@@ -1,1 +1,5 @@
-
+{
+  "version": "3.0.2",
+  "download_url": "https://github.com/Code4FutureBE/curses-intern-v3/releases/download/v3.0.2/curses_v3_internal.exe",
+  "changelog_url": "https://raw.githubusercontent.com/Code4FutureBE/curses-intern-v3/main/changelogs/3.0.2.md"
+}
